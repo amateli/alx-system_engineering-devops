@@ -11,3 +11,4 @@
 ### 8-firstdelete: deletes file from my first directory
 ### 9-firstdirdeletion: delete my first directory
 ### 10-back: changes the working directory to previous one
+### 11-lists: lists all files current, parent and boot directories
