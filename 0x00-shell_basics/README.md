@@ -14,4 +14,5 @@
 ### 11-lists: lists all files current, parent and boot directories
 ### 12-file type: prints type of file
 ### 13-symbolic link: creates symbolic link to a file
-### 14-copy html: copies updated versions of files
+### 14-copy html: copy updated versions of files
+### 100-lets move: move files files with upper case to a specific directory 
