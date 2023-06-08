@@ -16,4 +16,5 @@
 ### 13-symbolic link: creates symbolic link to a file
 ### 14-copy html: copy updated versions of files
 ### 100-lets move: move files files with upper case to a specific directory
-### 101-clean emacs: deletes files ending with ~ 
+### 101-clean emacs: deletes files ending with ~
+### 102-tree: creates a tree of directories 
