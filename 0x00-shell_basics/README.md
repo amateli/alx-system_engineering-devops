@@ -9,3 +9,4 @@
 ### 6-firstdirectory: Creates directory in tmp
 ### 7-movethatfile: moves file into my first directory
 ### 8-firstdelete: deletes file from my first directory
+### 9-firstdirdeletion: delete my first directory
