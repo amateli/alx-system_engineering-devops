@@ -13,3 +13,4 @@
 ### 10-back: changes the working directory to previous one
 ### 11-lists: lists all files current, parent and boot directories
 ### 12-file type: prints type of file
+### 13-symbolic link: creates symbolic link to a file
