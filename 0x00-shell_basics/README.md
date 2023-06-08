@@ -17,4 +17,5 @@
 ### 14-copy html: copy updated versions of files
 ### 100-lets move: move files files with upper case to a specific directory
 ### 101-clean emacs: deletes files ending with ~
-### 102-tree: creates a tree of directories 
+### 102-tree: creates a tree of directories
+### 103-commas: list files separated by commas and starting with dot 
