@@ -5,4 +5,5 @@
 ### 2-bring me home: Changes working directory to user's home directory
 ### 3-listfiles: List contents in long format 
 ### 4-listmorefiles: List contents with hidden files
-### 5-listfilesdigitsonly: List contents with user and group IDs along with hidden files 
+### 5-listfilesdigitsonly: List contents with user and group IDs along with hidden files
+### 6-firstdirectory: Creates directory in tmp
